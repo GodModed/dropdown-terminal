@@ -1,0 +1,16 @@
+{
+  "name": "dropdown-terminal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bezier-curve": "^1.0.0",
+    "node-window-manager": "^2.2.4"
+  }
+}
